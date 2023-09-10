@@ -1,25 +1,11 @@
 # Welcome to My Coding Universe! 🌌
 
 
-```javascript
-const aboutMe = () => {
-  return "Exploring the digital cosmos, one line of code at a time!";
-};
-
-const learning = () => {
-  return "I'm on an eternal quest for knowledge and innovation.";
-};
-
-console.log(`🚀 ${aboutMe()} ${learning()}`);
-
-# Priscilla Riese - Full Stack Developer 🚀
-
-
-👩‍💻 Full Stack Developer | 💡 Innovator | 🌐 World Explorer
-
-## Who am I?
+## Who am I?  - 👩‍💻 Full Stack Developer | 💡 Innovator | 🌐 World Explorer
 
 I'm Priscilla Riese, your friendly neighborhood Full Stack Developer, on a mission to turn dreams into code and make the digital world a more exciting place!
+
+
 
 ## My Coding Toolbox 🧰
 
@@ -38,8 +24,8 @@ I'm Priscilla Riese, your friendly neighborhood Full Stack Developer, on a missi
 
 ## Let's Connect 🚀
 
-- 📫 Reach me at: priscilla.riese@gmail.com
-- 🌐 Portfolio: https://priscillariese.github.io/personal-portfolio/
-- 📱 LinkedIn: https://www.linkedin.com/in/priscilla-riese/
+- 📫 Reach me at: (priscilla.riese@gmail.com)
+- 🌐 Portfolio: (https://priscillariese.github.io/personal-portfolio/)
+- 📱 LinkedIn: (https://www.linkedin.com/in/priscilla-riese/)
 
 Feel free to explore my coding universe, and let's embark on a cosmic coding journey together! 🌌🚀
